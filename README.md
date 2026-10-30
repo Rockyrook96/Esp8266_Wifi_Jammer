@@ -1,6 +1,10 @@
 # Esp8266_Wifi_Jammer
 "An open-source ESP8266 Deauther project for testing Wi-Fi network security against deauthentication attacks. For educational and ethical pen-testing purposes only."
 
+<img width="1080" height="360" alt="1" src="https://github.com/user-attachments/assets/dc74030b-e9e5-4d5c-af6d-20653471dd19" />
+
+
+                                                                                              
 # Installation!
 
 1 Download the desired bin file from this link[ Download here.](https://github.com/SpacehuhnTech/esp8266_deauther/releases)      
@@ -48,6 +52,11 @@ management.
 2. Connect to the Wi-Fi AP created by the device (Default SSID: pwned / Password: deauther).
 3. Open a browser and navigate to http://192.168.4.1 to access the web panel.
 4. Perform a scan, select target access points or clients, and execute required testing modules
+
+                                                                                     
+
+   <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/6720f76a-dcd9-4ed1-82bc-778c0cc21587" />
+
 
 # Legal & Ethical Disclaimer
 
